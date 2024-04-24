@@ -1,0 +1,4 @@
+pip install pillow
+pip intall matplotlib
+pip install tkcalendar
+pip install pandas
